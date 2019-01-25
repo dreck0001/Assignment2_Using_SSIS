@@ -2,7 +2,7 @@
 This assignment is about manually exporting the HumanResources.Employee table from the AdventureWorks2014 OLTP database into a flat file and importing the flat file back into the same database using Microsoft Integration Services in Visual Studio.
 
 Zip File contents:
-1. Q1_Package.dtsx
+1. Q1_Package.dtsx\n
       Using an SSIS package to manually export a table from a SQL server database to a flat file.
       The package has two Data Flows for the database table source connection and the flat file destination connection.
 2. Q2_StagingTableCreation.sql:
