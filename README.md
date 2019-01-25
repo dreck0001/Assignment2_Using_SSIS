@@ -15,4 +15,4 @@ Zip File contents:
       The Control Flow in this package loads data from the flat file to the database table.
 
 4. Q4_SSIS_Screen_Shots:
-      This Word document drecribes the steps I took to export and import the data. It has screen shots of the Control FLows.
+      This Word document describes the steps I took to export and import the data. It has screen shots of the Control Flows.
